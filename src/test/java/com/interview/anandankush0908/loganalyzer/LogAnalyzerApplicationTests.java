@@ -15,7 +15,8 @@ import static org.assertj.core.api.AssertionsForInterfaceTypes.assertThat;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-class LoganalyzerApplicationTests {
+class LogAnalyzerApplicationTests {
+
 	@Autowired
 	private AlertRepository alertRepository;
 
