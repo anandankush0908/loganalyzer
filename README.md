@@ -1,4 +1,4 @@
-# Log Analyser
+# Log Analyzer
 
 Read, Parse and Flag Events from a Log File
 
